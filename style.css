@@ -1,0 +1,26 @@
+table,tr,td,th{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.week{
+    background-color: burlywood;
+}
+
+.green{
+    background-color:rgb(169, 209, 84);
+}
+
+th{
+    background-color: aqua;
+    
+}
+
+table{
+    width: 70%;
+    font-size: 100%;
+}
+
+img{
+    width: 40%;
+}
